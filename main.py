@@ -150,7 +150,7 @@ def create_table():
     this_root.geometry("2115x1155")
     pics = ["/home/sudojudowarrior/Pictures/Mikasa.png", "/home/sudojudowarrior/Pictures/secure-checkout.png",
             "/home/sudojudowarrior/Pictures/morty.png", "/home/sudojudowarrior/Pictures/sexy-icon.png",
-            "/home/sudojudowarrior/Pictures/sexy-girl.png", "/home/sudojudowarrior/Pictures/ribbon.png",
+            "/home/sudojudowarrior/Pictures/rick&Morty replacement.png", "/home/sudojudowarrior/Pictures/ribbon.png",
             "/home/sudojudowarrior/Pictures/ribbon.png", "/home/sudojudowarrior/Pictures/ribbon.png",
             "/home/sudojudowarrior/Pictures/line.png"]
     i = 0
